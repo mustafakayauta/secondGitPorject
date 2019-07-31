@@ -2,8 +2,7 @@ package tests;
 
 public class SeleniumScript {
   
-  System.out.println("mustafa kaya");
-  
-  
-  
+  //System.out.print("mustafa kaya")
+
+
 }
